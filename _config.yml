@@ -30,10 +30,11 @@ twitter_username: OceanTiger11
 #github_username:  jekyll
 
 # Build settings
-remote-theme: artemsheludko/flexible-jekyll
+theme: minima
+#remote-theme: jlgrock/flexible-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
